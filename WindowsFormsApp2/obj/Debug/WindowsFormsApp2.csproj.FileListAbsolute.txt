@@ -1,0 +1,151 @@
+C:\Users\Admin\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Admin\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Admin\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Admin\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Admin\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WebDriver.dll
+C:\Users\Admin\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WebDriver.xml
+C:\Users\Admin\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Admin\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\Tailer\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Tailer\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Tailer\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Tailer\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WebDriver.dll
+C:\Users\Tailer\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WebDriver.xml
+C:\Users\Tailer\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\Tailer\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Tailer\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Tailer\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\Tailer\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Tailer\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WebDriver.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WebDriver.xml
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HtmlUnit.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.Runtime.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\NHtmlUnit.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WebDriver.Support.dll
+C:\Users\Admin\Desktop\тесстт - копия\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WebDriver.Support.xml
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\HtmlUnit.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.Runtime.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\NHtmlUnit.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WebDriver.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WebDriver.Support.dll
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WebDriver.xml
+C:\Users\Admin\Desktop\тес\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WebDriver.Support.xml
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\HtmlUnit.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.AWT.WinForms.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Beans.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Charsets.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Corba.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Core.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Localedata.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Management.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Media.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Misc.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Naming.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Remoting.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Security.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Text.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Tools.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.Util.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.XML.API.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.Runtime.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\IKVM.Runtime.JNI.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\NHtmlUnit.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\WebDriver.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\WebDriver.Support.dll
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\WebDriver.xml
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\bin\Debug\WebDriver.Support.xml
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\deskserver\litecart\testlitecart\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
