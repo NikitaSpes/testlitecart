@@ -80,26 +80,26 @@ namespace WindowsFormsApp2
                              
                 Thread.Sleep(1000);
 
-                string notePoisk = "1)Нет окна поля для ввода";
+                string notePole= "1)Нет окна поля для ввода";
                 try
                 {
                     IWebElement LohinInput = Browser.FindElement(By.Name("username"));
                     IWebElement PasswordInput = Browser.FindElement(By.Name("password"));
 
                     LohinInput.SendKeys("admin");
-                    PasswordInput.SendKeys("123" + OpenQA.Selenium.Keys.Enter);
+                    PasswordInput.SendKeys("admin1" + OpenQA.Selenium.Keys.Enter);
                     // проверка на наличие элемента
-                    Thread.Sleep(5000);
+                    Thread.Sleep(3000);
                     if (IsElementExists(By.Id("notices")) == true)
                     {
-                        IWebElement PasswordInput1 = Browser.FindElement(By.Id("password"));
+                        IWebElement PasswordInput1 = Browser.FindElement(By.Name("password"));
                         PasswordInput1.SendKeys("admin" + OpenQA.Selenium.Keys.Enter);
                     }
 
                 }
                 catch (Exception ex)
                 {
-                    richTextBox2.Text = notePoisk.ToString() + "\n" + ex.Message;
+                    richTextBox2.Text = notePole.ToString() + "\n" + ex.Message;
                 }                
             }
         }
